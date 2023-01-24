@@ -12,5 +12,5 @@ Installation:
 
 Output:
 
-https://github.com/prasanthkavin/twitter-scrapping-/issues/1#issue-1554706062
+
 
