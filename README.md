@@ -7,7 +7,7 @@ Packages used:
 
 Installation:
 
-!pip install snscarpe
+!pip install snscrape
 !pip install streamlit
 
 Output:
